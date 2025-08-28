@@ -112,7 +112,7 @@ CALCULATE (
 
 ## 📸 Dashboard Preview
 
-*Dashboard screenshot will be displayed here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35baa4e4-9440-450e-bfb9-0226c2a331f8" />
 
 ![Olympic Games Dashboard](https://via.placeholder.com/800x400/4472C4/FFFFFF?text=Olympic+Games+Dashboard)
 
